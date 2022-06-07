@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/21 23:36:00.000.410,=C:\Users\Vendaki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/22 00:04:17.000.766,=C:\Users\Vendaki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/16 23:33:29.000.273,=C:\Users\Vendaki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/16 23:35:57.000.175,C:\Users\Vendaki\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\principal.pas</Transaction>
+    <Transaction>2019/12/16 23:35:57.000.175,C:\Users\Vendaki\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\principal.dfm</Transaction>
+    <Transaction>2019/12/16 23:36:07.000.706,C:\Users\Vendaki\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\NFSE.dproj</Transaction>
+    <Transaction>2019/12/16 23:38:22.000.704,=C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\Unit1.pas</Transaction>
+    <Transaction>2019/12/16 23:38:47.000.159,C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\Unit1.pas=C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\dm_nota_nfse.pas</Transaction>
+    <Transaction>2019/12/16 23:38:47.000.159,C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\Unit1.dfm=C:\Users\Vendaki\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\dm_nota_nfse.dfm</Transaction>
+    <Transaction>2020/01/07 01:32:01.000.962,=E:\componentes em uso Vendaki\Acbr\Fontes\ACBrDFe\ACBrNFSe\ACBrNFSeNotasFiscais.pas</Transaction>
+    <Transaction>2020/02/29 23:40:58.000.277,=C:\Users\VENDAKI\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 23:41:11.000.314,C:\Users\VENDAKI\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\preeche_ini.pas=C:\Users\VENDAKI\Dropbox\SISTEMAS\PROJETO NFSE - INTEGRACAO\Unit1.pas</Transaction>
+    <Transaction>2020/03/05 23:59:16.000.256,=C:\Users\Jair\Desktop\NFSE FINAL_GRACAS_DEUS\ACBrNFSeNotasFiscais.pas</Transaction>
+  </Transactions>
+</BorlandProject>
